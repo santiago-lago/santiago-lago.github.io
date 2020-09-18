@@ -1,0 +1,4 @@
+bg		FONDO
+pic01		ABOUT BE
+pic02		PROJECTS
+pic03		ONLINE CV
